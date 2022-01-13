@@ -1,0 +1,5 @@
+com/spotter/rpc/demo/provider/dao/mapper/UserMapper.class
+com/spotter/rpc/demo/provider/mybatis/config/MybatisDemoConfig.class
+com/spotter/rpc/demo/provider/mybatis/entity/MybatisDemoUser.class
+com/spotter/rpc/demo/provider/dao/dataobject/UserDO.class
+com/spotter/rpc/demo/provider/mybatis/mapper/MybatisDemoUserMapper.class

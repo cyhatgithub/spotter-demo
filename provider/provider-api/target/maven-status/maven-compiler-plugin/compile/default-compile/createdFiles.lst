@@ -1,0 +1,3 @@
+com/spotter/rpc/demo/provider/api/UserService.class
+com/spotter/rpc/demo/provider/api/model/UserModel.class
+com/spotter/rpc/demo/provider/dubbo/api/TestEchoService.class

@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jan 13 12:45:27 CST 2022
+@default-rabbit-milestone-https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1642049127262
+https\://repo.spring.io/milestone/.error=
+http\://maven.aliyun.com/nexus/content/repositories/central/.error=Could not transfer artifact io.netty\:netty-bom\:pom\:4.1.50.Final from/to alimaven (http\://maven.aliyun.com/nexus/content/repositories/central)\: Transfer failed for http\://maven.aliyun.com/nexus/content/repositories/central/io/netty/netty-bom/4.1.50.Final/netty-bom-4.1.50.Final.pom
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1642049125060
+https\://repo.spring.io/snapshot/.lastUpdated=1642049126222
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=Could not transfer artifact io.netty\:netty-bom\:pom\:4.1.50.Final from/to rabbit-milestone (https\://dl.bintray.com/rabbitmq/maven-milestones)\: Transfer failed for https\://dl.bintray.com/rabbitmq/maven-milestones/io/netty/netty-bom/4.1.50.Final/netty-bom-4.1.50.Final.pom 502 Bad Gateway
+@default-alimaven-http\://maven.aliyun.com/nexus/content/repositories/central/.lastUpdated=1642048962766

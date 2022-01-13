@@ -19,7 +19,7 @@
         <dependency>
             <groupId>com.spotter.rpc.demo</groupId>
             <artifactId>provider-api</artifactId>
-            <version>${project.version}</version>
+            <version>0.0.4-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>com.spotter.rpc.demo</groupId>
